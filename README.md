@@ -1,1 +1,2 @@
 # Dictionary-App
+by Jivin
